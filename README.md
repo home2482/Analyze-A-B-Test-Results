@@ -1,8 +1,9 @@
 # Analyze-A-B-Test-Results
 
 ## Description
+A/B tests are very commonly performed by data analysts and data scientists. 
 
-In this project a dataset containing the conversion rates between new and old websites for an e-commerce website is going to be analyzed. This project is meant to give a practical example for how the statistics learned in part 4 of the Udacity Data Analysis Nanodegree course can be used.  The data will be used to perform an A/B test, the goal is to work through the notebook to help the community understand if they should implement the new page, keep the old one or run the experiment longer to make their decision.
+For this project, we will be working to understand the results of an A/B test run by an e-commerce website. Our goal is to work through this notebook to help the company understand if they should implement the new page, keep the old page, or perhaps run the experiment longer to make their decision.
 
 ## Data Sets
 
